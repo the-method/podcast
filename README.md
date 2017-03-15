@@ -1,2 +1,2 @@
-# podcast
-Episodes, edits, contributions to The Method.
+# themethod
+This is an open source, peer reviewed podcast about science.
