@@ -21,4 +21,4 @@ This project is licensed under the MIT License and CC-BY 4.0 - see the [LICENSE.
 
 ## Acknowledgments
 
-* Special thanks to the Mozilla Science Lab, the MOZWOW 2017 cohort, OpenCon Alum 2014-2016, Kurtis Baute, and Jacob Moeller.
+Special thanks to the Mozilla Science Lab, the MOZWOW 2017 cohort, OpenCon Alum 2014-2016, Kurtis Baute, and Jacob Moeller.
