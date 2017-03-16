@@ -13,11 +13,11 @@ As an open source podcast, **our listeners are also our content contributors**. 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for the details on contributing your content, our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the details on contributing your content, our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the MIT License and CC-BY - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License and CC-BY 4.0 - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
