@@ -21,19 +21,19 @@ Please report unacceptable behavior to [contact.the.method@gmail.com](mailto:con
 
 ## How can I contribute?
 
-Follow The Method's Contribution Rules to ensure we are creating a constructive conversation:
+Follow The Method's **Contribution Rules** to ensure we are creating a constructive conversation:
 
-Rule 1: Be courteous.
-1) Be courteous. Demeaning language, sarcasm, rudeness, or hostility towards another contributor will get your contribution removed. 
+### Rule 1: **Be courteous.**
+Demeaning language, sarcasm, rudeness, or hostility towards another contributor will get your contribution removed. 
 
-Rule 2: Source your facts.
-2) Source your facts. If you're claiming something to be true, you need to back it up with a qualified source. There is no "common knowledge" exception.
+### Rule 2: **Source your facts.**
+If you're claiming something to be true, you need to back it up with a qualified source. There is no "common knowledge" exception.
 
-Rule 3: Put thought into it.
-3) Put thought into it. Explain the reasoning behind what you're saying. Bare statements of opinion, off-topic contributions, and one-line replies will be removed. Argue your position with logic and evidence.
+### Rule 3: **Put thought into it.**
+Explain the reasoning behind what you're saying. Bare statements of opinion, off-topic contributions, and one-line replies will be removed. Argue your position with logic and evidence.
 
-Rule 4: Address the arguments, not the person.
-4) Address the arguments, not the person. The subject of your sentence should be "the evidence" or "this source" or some other noun directly related to the topic of conversation. "You" statements are suspect.
+### Rule 4: **Address the arguments, not the person.**
+The subject of your sentence should be "the evidence" or "this source" or some other noun directly related to the topic of conversation. "You" statements are suspect.
 
 ### Contribute audio content
 
