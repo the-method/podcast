@@ -16,8 +16,7 @@
 
 ### Code of Conduct
 
-This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code.
+The Method requires all contributors to uphold our [Code of Conduct](CODE_OF_CONDUCT.md).
 Please report unacceptable behavior to [contact.the.method@gmail.com](mailto:contact.the.method@gmail.com).
 
 ## How can I contribute?
