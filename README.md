@@ -8,6 +8,7 @@ Just as an open source community can improve the quality of code, we are creatin
 
 As an open source podcast, **our listeners are also our content contributors**. We need scientists and science-lovers to listen to our podcast episodes and respond with their own opinions, experiences, stories, references, and constructive feedback. After reviewing [CONTRIBUTING.md](CONTRIBUTING.md), have your say: 
 
+* Join The Method [WhatsApp Group](https://chat.whatsapp.com/KyvDv4sqc3cHP4enDydZI1) and leave a voice note OR
 * Leave a voicemail with your contribution at **(929) 367-7330** OR
 * Email a voice memo to **contact.the.method@gmail.com**
 
