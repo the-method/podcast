@@ -6,7 +6,7 @@ Just as an open source community can improve the quality of code, we are creatin
 
 ## Getting Started
 
-As an open source podcast, **our listeners are also our content contributors**. We need scientists and science-lovers to listen to our podcast episodes and respond with their own opinions, experiences, stories, references, and constructive feedback. Here's how:
+As an open source podcast, **our listeners are also our content contributors**. We need scientists and science-lovers to listen to our podcast episodes and respond with their own opinions, experiences, stories, references, and constructive feedback. After reviewing [CONTRIBUTING.md](CONTRIBUTING.md), have your say: 
 
 * Leave a voicemail with your contribution at **(929) 367-7330** OR
 * Email a voice memo to **contact.the.method@gmail.com**
