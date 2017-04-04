@@ -12,6 +12,8 @@ As an open source podcast, **our listeners are also our content contributors**. 
 * Leave a voicemail with your contribution at **(929) 367-7330** OR
 * Email a voice memo to **contact.the.method@gmail.com**
 
+Find upcoming episode topics, outstanding issues, and things to do on our [Projects Page](https://github.com/the-method/podcast/projects).
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the details on contributing your content, our code of conduct, and the process for submitting pull requests to us.
