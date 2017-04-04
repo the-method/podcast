@@ -52,5 +52,8 @@ The subject of your sentence should be "the evidence" or "this source" or some o
 
 ### Recommend someone to interview or review
 
-* **Create** an issue labelled "interview"
+* **Create** an issue with the name of the recommended interviewee or reviewer in the title.
+* **Describe** why you are making the recommendation and contact details for the interviewee or reviewer.
+* **Label** the issue "interview".
+* **Under Project**, assign the Project that corresponds to the appropriate episode.
 
