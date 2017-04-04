@@ -14,4 +14,4 @@ As an open source podcast, **our listeners are also our content contributors**. 
 
 ## Help wanted on this episode
 
-Transcribe, create issues, resolve issues, and help improve this episode. To find outstanding issues and things to do, check out the [Project Page for this episode](https://github.com/the-method/podcast/projects/1).
+Transcribe, create issues, resolve issues, and help improve this episode. To find outstanding issues and things to do, check out the [Project Page for this episode](https://github.com/the-method/podcast/projects/2).
