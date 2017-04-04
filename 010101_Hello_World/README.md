@@ -4,17 +4,17 @@ Our first episode! In this episode, we ask scientists and science-lovers to join
 
 ## Contributing
 
-As an open source podcast, **our listeners are also our content contributors**. After reviewing [CONTRIBUTING.md](CONTRIBUTING.md), make your contribution by: 
+As an open source podcast, **our listeners are also our content contributors**. After reviewing [CONTRIBUTING.md](CONTRIBUTING.md), make your contribution: 
+
+* Say "Hello World"!
+* Introduce yourself to The Method listeners
+* Tell us why science matters to you
+
+Leave your message in one of three ways:
 
 * Join The Method [WhatsApp Group](https://chat.whatsapp.com/KyvDv4sqc3cHP4enDydZI1) and leave a voice note OR
 * Leave a voicemail with your contribution at **(929) 367-7330** OR
 * Email a voice memo to **contact.the.method@gmail.com**
-
-In your message:
-
-* Join us in saying "Hello World"
-* Introduce yourself to The Method listeners
-* Tell us why science matters to you
 
 ## Help wanted on this episode
 
