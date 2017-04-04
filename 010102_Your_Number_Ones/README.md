@@ -1,12 +1,14 @@
 # Your Number Ones
 
-In this episode, we ask scientists and science-lovers to give us their Number Ones:
-* What is the **number one issue** in science today?
-* What is the **number one exciting innovation** in science today?
+In our second episode, we ask scientists and science-lovers to give us their Number Ones! What are the Number One issues and innovations in science?
 
 ## Contributing
+As an open source podcast, **our listeners are also our content contributors**. After reviewing [CONTRIBUTING.md](CONTRIBUTING.md), make your contribution: 
 
-As an open source podcast, **our listeners are also our content contributors**. After reviewing [CONTRIBUTING.md](CONTRIBUTING.md), call us and let us know your number one issue and innovation in science: 
+* What do you think is **number one issue** in science today?
+* What do you think is **number one exciting innovation** in science today?
+
+Leave your message in one of three ways:
 
 * Join The Method [WhatsApp Group](https://chat.whatsapp.com/KyvDv4sqc3cHP4enDydZI1) and leave a voice note OR
 * Leave a voicemail with your contribution at **(929) 367-7330** OR
