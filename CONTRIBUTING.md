@@ -39,6 +39,10 @@ The subject of your sentence should be "the evidence" or "this source" or some o
 
 ### Contribute audio content
 
+* Join The Method [WhatsApp Group](https://chat.whatsapp.com/KyvDv4sqc3cHP4enDydZI1) and leave a voice note OR
+* Leave a voicemail with your contribution at **(929) 367-7330** OR
+* Email a voice memo to **contact.the.method@gmail.com**
+
 ### Contribute text content
 
 ### Transcribe audio
