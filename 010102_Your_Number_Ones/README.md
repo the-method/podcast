@@ -1,8 +1,8 @@
 # Your Number Ones
 
 In this episode, we ask scientists and science-lovers to give us their Number Ones:
-* What is the number one issue in science today?
-* What is the number one exciting innovation in science today?
+* What is the **number one issue** in science today?
+* What is the **number one exciting innovation** in science today?
 
 ## Contributing
 
