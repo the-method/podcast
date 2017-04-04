@@ -9,10 +9,8 @@
 
 [How Can I Contribute?](#how-can-i-contribute)
   * [Contribute audio content](#contribute-audio-content)
-  * [Contribute text content](#contribute-text-content)
   * [Transcribe audio](#transcribe-audio)
   * [Recommend someone to interview or review](#recommend-someone-to-interview-or-review)
-  * [Contribute code, design, or functionality](#contribute-code,-design,-or-functionality)
 
 ## What should I know before I get started?
 
@@ -43,14 +41,16 @@ The subject of your sentence should be "the evidence" or "this source" or some o
 * Leave a voicemail with your contribution at **(929) 367-7330** OR
 * Email a voice memo to **contact.the.method@gmail.com**
 
-### Contribute text content
-
 ### Transcribe audio
+
+* **Assign** an issue labelled "transcribe" to yourself OR transcribe your own audio contribution.
+* **Download** the audio file from [Soundcloud](https://soundcloud.com/themethodpodcast/) OR listen to your audio contribution.
+* **Transcribe** using [oTranscribe](http://otranscribe.com/) and include regular timestamps.
+* **Export** your transcription in Markdown format.
+* **Name** your transcription (4-digit episode number underscore clip number tran (eg, "010102_01tran")).
+* **Upload** the transcription to the [episode folder](https://github.com/the-method/podcast/).
 
 ### Recommend someone to interview or review
 
-### Contribute code, design, or functionality
+* **Create** an issue labelled "interview"
 
-#### Pull requests
-
-Fill in [the required template](PULL_REQUEST_TEMPLATE.md).
