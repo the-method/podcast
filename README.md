@@ -4,6 +4,8 @@ The Method is an **open source, peer reviewed podcast** about the state of scien
 
 Just as an open source community can improve the quality of code, we are creating a platform for the scientific community to improve the quality of our conversations about **what is working in science and what is not**. 
 
+## [Subscribe to our mailing list](http://eepurl.com/cJFgOj) to keep in touch!
+
 ## Getting Started
 
 As an open source podcast, **our listeners are also our content contributors**. We need scientists and science-lovers to listen to our podcast episodes and respond with their own opinions, experiences, stories, references, and constructive feedback. After reviewing [CONTRIBUTING.md](CONTRIBUTING.md), have your say: 
