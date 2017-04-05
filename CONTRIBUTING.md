@@ -2,6 +2,10 @@
 
 [![Join the chat at https://gitter.im/themethodpodcast/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/themethodpodcast/Lobby)
 
+## What can I do?
+
+Contribute your thoughts and experiences by [submitting audio](#contribute-audio-content), [transcribe audio interviews](#transcribe-audio), or [recommend someone to interview](#recommend-someone-to-interview-or-review) for a future episode.
+
 #### Table Of Contents
 
 [What should I know before I get started?](#what-should-i-know-before-i-get-started)
