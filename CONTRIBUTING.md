@@ -6,7 +6,7 @@
 
 Contribute your thoughts and experiences by [submitting audio](#contribute-audio-content), [transcribe audio interviews](#transcribe-audio), or [recommend someone to interview](#recommend-someone-to-interview-or-review) for a future episode.
 
-#### Table Of Contents
+## Table Of Contents
 
 [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   * [Code of Conduct](#code-of-conduct)
