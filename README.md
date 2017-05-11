@@ -17,7 +17,11 @@ As an open source podcast, **our listeners are also our content contributors**. 
 ### There are so many ways to **contribute!**
 Find upcoming episode topics, outstanding issues, and things to do on our [Projects Page](https://github.com/the-method/podcast/projects).
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the details on contributing your content, our code of conduct, and the best ways to get involved.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the details on contributing your content, our [Code of Conduct](CODE_OF_CONDUCT.md), and the best ways to get involved.
+
+### Code of Conduct and Mozilla Global Sprint Participation Guidelines
+
+Providing a welcoming and supportive environment for all people, regardless of background or identity, is the highest priority in our community. Please review The Method's [Code of Conduct](CODE_OF_CONDUCT.md) and [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) before contributing!
 
 ## What are we up to?
 
