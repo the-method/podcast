@@ -13,6 +13,7 @@ As an open source podcast, **our listeners are also our content contributors**. 
 * Join The Method [WhatsApp Group](https://chat.whatsapp.com/KyvDv4sqc3cHP4enDydZI1) and leave a voice note OR
 * Leave a voicemail with your contribution at **(929) 367-7330** OR
 * Email a voice memo to **contact.the.method@gmail.com**
+* **[Schedule a time](https://beta.doodle.com/methodpodcast)** for The Method to call you to record your contribution
 
 ### There are so many ways to **contribute!**
 Find upcoming episode topics, outstanding issues, and things to do on our [Projects Page](https://github.com/the-method/podcast/projects).
